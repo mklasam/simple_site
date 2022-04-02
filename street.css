@@ -1,0 +1,23 @@
+#PierwszyObszarBoczny {width:200px; height:300px; float:left; background-color: salmon; text-align: center;}
+#DrugiObszarBoczny {width:200px; height:300px; float:right; background-color: salmon; text-align: center;}
+#ObszarRoboczy {height:300px; text-align: center; background-color: bisque;}
+#ObszarLogowania {text-align: right; border-right: 2px; height: 30px;}
+#Menu {background-color: rgb(141, 141, 221); color: mintcream; height: 50px;}
+
+.option
+{
+    float: left;
+    min-width: 50px;
+    height: 25px;
+    font-size: 18px;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    padding: 10px;
+    border-right: 2px dotted #444444;
+    opacity: 0.8;
+}
+
+.option:hover
+{
+    background-color: #000000;
+    cursor: pointer;
+}
