@@ -2,7 +2,7 @@
 #DrugiObszarBoczny {width:200px; height:300px; float:right; background-color: salmon; text-align: center;}
 #ObszarRoboczy {height:300px; text-align: center; background-color: bisque;}
 #ObszarLogowania {text-align: right; border-right: 2px; height: 30px;}
-#Menu {background-color: rgb(141, 141, 221); color: mintcream; height: 50px;}
+#Menu {background-color: rgb(141, 141, 221); color: mintcream; height: 45px;}
 
 .option
 {
