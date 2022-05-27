@@ -1,6 +1,7 @@
 # simple_site
 
 -- first change 22-04-02
+<br>
 -- next change 22-05-27
 
 ### 💻 Technology
@@ -11,8 +12,3 @@
 
 # Introduction
  - This project is a simple site with menu and few other basic options.
-- Program is very usefull as a calculator to calculate delta and elements. 
-- It can be useful at school to check if we calculate correctly without mistakes
-- This program can be very attractive for people who are not the best at Math
-
-# Code
